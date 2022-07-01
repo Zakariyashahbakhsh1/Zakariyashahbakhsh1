@@ -1,14 +1,17 @@
 [
   {
-    "test": "Hello",
-    "id": "@amin"
+    "name": "Hello",
+    "help": "@amin",
+    "link": "@amin"
   },
   {
-    "test": "Made with love",
-    "id": "@amin2"
+    "name": "Made with love",
+    "help": "@amin2",
+    "link": "@amin"
   },
   {
-    "test": "جدید ترین پروژه",
-    "id": "@amin3"
+    "name": "جدید ترین پروژه",
+    "help": "@amin3",
+    "link": "@amin"
   }
 ]
